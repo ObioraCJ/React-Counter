@@ -1,0 +1,32 @@
+.counter-container {
+    margin: 5rem auto;
+    padding-top: 40px;
+    text-align: center;
+    background-color: var( --clr-grey-7);
+    border-radius: 20px;
+    height: 30rem;
+    width: 25em;
+    transition: var(--transition);
+}
+.para {
+    margin-top: 80px;
+    color: blue;
+    font-size: larger;
+    font-weight: bold;
+}
+.btn2 {
+    background-color: green;
+  }
+  .btn3 {
+    background-color: red;
+  }
+  .positive {
+    background: rgb(0, 128, 0);
+  }
+  .negative {
+    background: rgb(255, 0, 0);
+  }
+  .neutral {
+    background-color:  var( --clr-grey-7);
+  }
+  
